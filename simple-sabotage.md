@@ -37,6 +37,33 @@ Director
 
 ## 1. INTRODUCTION
 
+a. The purpose of this paper is to characterize simple sabotage, to outline its possible effects, and to present
+suggestions for inciting and executing it.
+
+b. Sabotage varies from highly technical coup de main acts that require detailed planning and the use of specially
+trained operatives, to innumerable simple acts which the ordinary individual citizen-saboteur can perform. This paper is
+primarily concerned with the latter type. Simple sabotage does not require specially prepared tools or equipment; it is
+executed by an ordinary citizen who may or may not act individually and without the necessity for active connection with
+an organized group; and it is carried out in such a way as to involve a minimum danger of injury, detection, and
+reprisal.
+
+c. Where destruction is involved, the weapons of the citizen-saboteur are salt, nails, candles, pebbles, thread, or any
+other materials he might normally be expected to
+possess as a householder or as a worker in his particular occupation. His arsenal is the kitchen shelf, the trash pile,
+his own usual kit of tools and supplies. The targets of his sabotage are usually objects to which he has normal and
+inconspicuous access in everyday life.
+
+d. A second type of simple sabotage requires no destructive tools whatsoever and produces physical damage, if any, by
+highly indirect means. It is based on universal opportunities to make faulty decisions, to adopt a non-cooperative
+attitude, and to induce others to follow suit. Making a faulty decision may be simply a matter of placing tools in one
+spot instead of another. A non-cooperative attitude may involve nothing more than creating an
+unpleasant situation among one's fellow workers, engaging in bickerings, or displaying surliness and stupidity.
+
+e. This type of activity, sometimes referred to as the "human clement," is frequently responsible for accidents, delays,
+and general obstruction eveb under normal conditions. The potential saboteur should discover what types of faulty
+decisions and non-cooperation are normally found in his kind of work and should then devise his sabotage so as to
+enlarge that "margin for error."
+
 ## 2. POSSIBLE EFFECTS
 
 ## 3. MOTIVATING THE SABOTEUR

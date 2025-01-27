@@ -68,9 +68,43 @@ enlarge that "margin for error."
 
 ## 3. MOTIVATING THE SABOTEUR
 
+### (1) Personal Motives
+
+### (2) Encouraging Destructiveness
+
+### (3) Safety Measures
+
 ## 4. TOOLS, TARGETS, AND TIMING
 
+### (1) Under General Conditions
+
+### (2) Prior to a Military Offensive
+
+### (3) During a Military Offensive
+
 ## 5. SPECIFIC SUGGESTIONS SIMPLE SABOTAGE
+
+### (1) Buildings
+
+### (2) Industrial Production: Manufacturing
+
+### (3) Production: Metals
+
+### (4) Production: Mining and Mineral Extraction
+
+### (5) Production: Agriculture
+
+### (6) Transportation: Railways
+
+### (7) Transportation: Automotive
+
+### (8) Transportation: Water
+
+### (9) Communications
+
+### (10) Electric Power
+
+### (11) General Interference with Organizations and Production
 
 ### (12) General Devices for Lowering Morale and Creating Confusion
 

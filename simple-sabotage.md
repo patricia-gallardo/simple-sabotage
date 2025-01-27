@@ -24,7 +24,6 @@ cases and as directed by the theater commander.
 
 AR 380-5, pertaining to handling of secret documents, will be complied with in the handling of this Manual.
 
-
 William J. Donovan
 Director
 

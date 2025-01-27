@@ -263,6 +263,55 @@ people have to approve everything where one would do.
 
 (14) Apply all regulations to the last letter.
 
+#### (c) Office Workers
+
+(1) Make mistakes in quantities of material when you' are copying orders. Confuse similar names. Use wrong addresses.
+
+(2) Prolong correspondence with government bureaus.
+
+(3) Misfile essential documents.
+
+(4) In making carbon copies, make one too few, so that an extra copying job will have to be done.
+
+(5) Tell important callers the boss is busy or talking on another telephone.
+
+(6) Hold up mail until the next collection.
+
+(7) Spread disturbing rumors that sound like inside dope.
+
+#### (d) Employees
+
+(1) Work slowly. Think out ways to increase the number of movements necessary on your job: use a light hammer instead of
+a heavy one, try to make a small wrench do when a big one is necessary, use little force where considerable force is
+needed, and so on.
+
+(2) Contrive as many interruptions to your work as you can: when changing the material on which you are working, as you
+would on a lathe or punch, take needless time to do it. If you are cutting, shaping or doing other measured work,
+measure dimensions twice as often as you need to. When you go to the lavatory, spend a longer time there than is
+necessary. Forget tools so that you will have to go back after them.
+
+(3) Even if you understand the language, pretend not to understand instructions in a foreign tongue.
+
+(4) Pretend that instructions are hard to understand, and ask to have them repeated more than once. Or pretend that you
+are particularly anxious to do your work, and pester the foreman with unnecessary questions.
+
+(5) Do your work poorly and blame it on bad tools, machinery, or equipment. Complain that these things are preventing
+you from doing your job right.
+
+(6) Never pass on your skill and experience to a new or less skillful worker.
+
+(7) Snarl up administration in every possible way. Fill out forms illegibly so that they will have to be done over; make
+mistakes or omit requested information in forms.
+
+(8) If possible, join or help organize a group for presenting employee problems to the management. See that the
+procedures adopted are as inconvenient as possible for the management, involving the presence of a large number of
+employees at each presentation, entailing more than one meeting for each grievance, bringing up problems which are
+largely imaginary, and so on.
+
+(9) Misroute materials.
+
+(10) Mix good parts with unusable scrap and rejected parts.
+
 ### (12) General Devices for Lowering Morale and Creating Confusion
 
 - (a) Give lengthy and incomprehensible explanations when questioned.

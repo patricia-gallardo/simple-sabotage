@@ -16,15 +16,15 @@ jobs:
       - name: Convert into PDF
         uses: docker://pandoc/latex:3.5
         with:
-          args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
+          args: --output=output/result.pdf --from=markdown+fancy_lists ${{ steps.files_list.outputs.files }}
       - name: Convert into HTML
         uses: docker://pandoc/latex:3.5
         with:
-          args: --output=output/result.html ${{ steps.files_list.outputs.files }}
+          args: --output=output/result.html --from=markdown+fancy_lists ${{ steps.files_list.outputs.files }}
       - name: Convert into DOCX
         uses: docker://pandoc/latex:3.5
         with:
-          args: --output=output/result.docx ${{ steps.files_list.outputs.files }}
+          args: --output=output/result.docx --from=markdown+fancy_lists ${{ steps.files_list.outputs.files }}
       - uses: actions/upload-artifact@v4
         with:
           name: output

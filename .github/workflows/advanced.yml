@@ -13,9 +13,18 @@ jobs:
           mkdir output  # create output dir
           # this will also include README.md
           echo "files=$(printf '"%s" ' *.md)" > $GITHUB_OUTPUT
-      - uses: docker://pandoc/latex:3.5
+      - name: Convert into PDF
+        uses: docker://pandoc/latex:3.5
         with:
           args: --output=output/result.pdf ${{ steps.files_list.outputs.files }}
+      - name: Convert into HTML
+        uses: docker://pandoc/latex:3.5
+        with:
+          args: --output=output/result.html ${{ steps.files_list.outputs.files }}
+      - name: Convert into DOCX
+        uses: docker://pandoc/latex:3.5
+        with:
+          args: --output=output/result.docx ${{ steps.files_list.outputs.files }}
       - uses: actions/upload-artifact@v4
         with:
           name: output

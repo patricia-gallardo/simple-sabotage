@@ -172,11 +172,35 @@ commit a sabotage on your job, you should naturally stay at your work.
 
 ## 4. TOOLS, TARGETS, AND TIMING
 
+a. The citizen-saboteur cannot be closely controlled. Nor is it reasonable to expect that simple sabotage can be precisely concentrated on specific types of target according to the requirements of a concrete military situation. Attempts to control simple sabotage according to developing military factors, moreover, might provide the enemy with intelligence of more or less value in anticipating the date and area of notably intensified or notably slackened military activity.
+
+b. Sabotage suggestions, of course, should be adapted to fit the area where they are to be practiced. Target priorities for general types of situations likewise can be specified, for emphasis at the proper time by the underground press, freedom stations, and cooperating propaganda.
+
 ### (1) Under General Conditions
+
+(a) Simple sabotage is more than malicious mischief, and it should always consist of acts whose results will be detrimental to the materials and manpower of the enemy.
+
+(b) The saboteur should be ingenious in using his every-day equipment. All sorts of weapons will present themselves if he looks at his surroundings in a different light. For example, emery dust - a powerful weapon - may at first seem unobtainable, but if the saboteur were to pulverize an emery knife sharpener or emery wheel with a hammer, he would find himself with a plentiful supply.
+
+(c) The saboteur should never attack targets beyond his capacity or the capacity of his instruments. An inexperienced person should not, for example, attempt to use exlosives, but should confine himself to the use of matches or other familiar weapons.
+
+(d) The saboteur should try to damage only objects and materials known to be in use by the enemy or to be destined for early use by the enemy. It will be safe for him to assume that almost any product of heavy industry is destined for enemy use, and that the most efficient fuel and lubricants also are destined for enemy use. Without special knowledge, however, it would be undesirabel for him to attempt destruction of food crops or food products.
+
+(e) Although the citizen-saboteur may rarely have access to military objects, he should give these preference above all others.
 
 ### (2) Prior to a Military Offensive
 
+During periods which are quiescent in a military sense, such emphasis as can be given to simple sabotage might well center on industrial production, to lessen the flow of materials and equipment to the enemy. Slashing a rubber tire on an Army truck may be an act of value; spoiling a batch of rubber in the production plant is an act of still more value.
+
 ### (3) During a Military Offensive
+
+(a) most significant sabotage for an area which is, or is soon destined to be, a theater of combat operations is that whose effects will be direct and immediate. Even if the effects are relatively minor and localized, this type of sabotage is to be preferred to activities whose effects, while widespread, are indirect and delayed.
+
+(1) The saboteur should be encouraged to attack transportation facilities of all kinds. Among such facilities are roads, railroads, automobiles, trucks, motor-cycles, bicycles, trains and trams.
+
+(2) Any communications facilities which can be used by the authorities to transmit instructions or morale material should be the objects of simple sabotage. These include telephone, telegraph and power systems, radio, newspapers, plackards, and public notices.
+
+(3) Critical materials, valuable in themselves or necessary to the efficient functioning of transportation and communication, also should become targets for the citizen-saboteur. These may include oil, gasoline, tires, food, and water.
 
 ## 5. SPECIFIC SUGGESTIONS SIMPLE SABOTAGE
 
